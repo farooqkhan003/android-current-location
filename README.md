@@ -1,6 +1,7 @@
 # Android App for Current Location
 Android App for getting current Location using Google Fused Api. And if no previous data for location is available, it gets the current location.<br>
-Here you can see the [Demo Video](https://youtu.be/dpYbxyUgIro)
+Here you can see the [Demo Video](https://youtu.be/dpYbxyUgIro).<br>
+For step by step tutorial visit [Android Tech Point](http://androidtechpoint.blogspot.com/2017/01/android-tutorial-to-get-last-known.html).
 
 Follow the setps to successfully buid this app: <br>
 
